@@ -1,3 +1,3 @@
-Skyhunt.exe
+SkyHunt.exe
 AnotherGame.exe
 SomeOtherGame.exe
